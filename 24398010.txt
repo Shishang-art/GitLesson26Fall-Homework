@@ -1,3 +1,4 @@
 姓名：石尚
 学号：24398010
-GitHub：Shishang-art
+GitHub用户名：Shishang-art
+课程作业：GitLesson26Fall
